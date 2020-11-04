@@ -1,0 +1,16 @@
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "About Me"
+      href: about.html
+    - icon: fa-github-alt fa-lg
+      href: http://github.com/js5095
+    - icon: fa-envelope fa-lg
+      href: mailto:<js5095@cumc.columbia.com>
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/jianting-shi-9a8990a1/
+output:
+  html_document:
+    theme: cerulean

@@ -1,0 +1,34 @@
+---
+title: "JS's Data Science Website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# This is Jeff's awesome website
+
+What if I add some text here...?
+
+![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+## Here's a subsection
+
+And here's some additional text...
+
+```{r}
+rnorm(10)
+```
+
+## Links
+
+* [Google](https://www.google.com/)
+* [P8105](https://p8105.com/plotly_and_dashboards.html)
+
+## Local image
+
+![](images/flower.jpg)
+
+## Link to page within the site
+
+[About me](about.html)
