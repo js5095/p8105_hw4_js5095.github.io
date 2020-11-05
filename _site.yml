@@ -6,7 +6,7 @@ navbar:
     - text: "About Me"
       href: about.html
     - text: "Data_Dashboard"
-      href: Data_dashboard.html
+      href: Data_Dashboard.html
     - icon: fa-github-alt fa-lg
       href: http://github.com/js5095
     - icon: fa-envelope fa-lg
