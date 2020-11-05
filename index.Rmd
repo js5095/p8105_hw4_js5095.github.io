@@ -1,34 +1,44 @@
 ---
-title: "JS's Data Science Website"
+title: "JS's Website for Data Science I"
 output: 
   html_document:
     toc: true
     toc_float: true
 ---
 
-# This is Jeff's awesome website
+## Welcome!
 
-What if I add some text here...?
+This is a website created for the 4th homework assignment of Data Science I.
 
-![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+![](https://datasciencebe.files.wordpress.com/2014/04/cropped-setwidth700-i-love-data-adma-blog-marketing-big-data.png)
 
-## Here's a subsection
 
-And here's some additional text...
+## A Brief Introduction of Myself
 
-```{r}
-rnorm(10)
-```
+I am currently a research specialist working in the lab studying macrophage biology and functional genomics in cardiometabolic diseases at CUIMC.
+(Here is the link to our lab website: [Zhang Lab @ Columbia](https://hanruizhang.github.io/zhanglab/))
 
-## Links
+Thanks to the research project about CRISPR Screen I've been closely involved in. I have the opportunities to start and learn coding with Python and R, which made me get to know data science, fall in love with data and startled at the power of data!
 
-* [Google](https://www.google.com/)
-* [P8105](https://p8105.com/plotly_and_dashboards.html)
+## More about Myself
 
-## Local image
+Please move your cursor to the tab on the top right.
 
-![](images/flower.jpg)
+Run into the [About me](about.html) tab!
 
-## Link to page within the site
+Follow me on github, linkedin! 
 
-[About me](about.html)
+Send me an email!
+
+## Something fun
+
+Look at our Halloween decoration this year!
+
+<img src="images/Pumpkin.jpeg" style="width:85%">
+
+And our first Halloween being trick-or-treated:
+
+<img src="images/Halloween.jpeg" style="width:85%">
+
+<img src="images/Halloween2.jpeg" style="width:85%">
+

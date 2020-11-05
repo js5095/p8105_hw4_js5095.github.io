@@ -6,26 +6,35 @@ output:
     toc_float: true
 ---
 
-# This page contains my academic and professional experience
+### Education
 
-## Education
-
-Jan. 2012 – Aug. 2014 
-Rowan University, School of Osteopathic Medicine, Stratford, NJ
+**Jan. 2012 – Aug. 2014** \
+Rowan University, School of Osteopathic Medicine, Stratford, NJ \
 Master of Science, in Biomedical Sciences
 
-Sep. 2006 – Jul. 2010
-Guangdong University of Technology, Guangzhou, China Bachelor of Engineering, in Bioengineering
+**Sep. 2006 – Jul. 2010** \
+Guangdong University of Technology, Guangzhou, China \
+Bachelor of Engineering, in Bioengineering
 
-## Publication
+### Research Experience
 
-§ J. Shi, H. Pan, I. Tabas, H. Zhang (2020). “Genome-wide Crispr Screen in Primary Macrophages for Identification of a Regulatory Network for Macrophage Efferocytosis.” Manuscript in prepartion
-§ Li, F., J. Shi, H. S. Lu and H. Zhang (2019). "Functional Genomics and CRISPR Applied to Cardiovascular Research and Medicine." Arterioscler Thromb Vasc Biol 39(9): e188-e194.
-§ J. Shi, C. Xue, W. Liu and H. Zhang (2019). "Differentiation of Human-Induced Pluripotent Stem Cells to Macrophages for Disease Modeling and Functional Genomics." Curr Protoc Stem Cell Biol 48(1): e74.
-§ Ferguson, J. F., C. Xue, Y. Gao, T. Tian, J. Shi, X. Zhang, Y. Wang, Y. D. Li, Z. Wei, M. Li, H. Zhang and M. P. Reilly (2018). "Tissue-Specific Differential Expression of Novel Genes and Long Intergenic Noncoding RNAs in Humans With Extreme Response to Evoked Endotoxemia." Circ Genom Precis Med 11(11): e001907.
-§ Zhang, H., J. Shi, M. A. Hachet, C. Xue, R. C. Bauer, H. Jiang, W. Li, J. Tohyama, J. Millar, J. Billheimer, M. C. Phillips, B. Razani, D. J. Rader and M. P. Reilly (2017). "CRISPR/Cas9-Mediated Gene Editing in Human iPSC-Derived Macrophage Reveals Lysosomal Acid Lipase Function in Human Macrophages-Brief Report." Arterioscler Thromb Vasc Biol 37(11): 2156-2160.
-§ Zhang, H., C. Xue, Y. Wang, J. Shi, X. Zhang, W. Li, S. Nunez, A. S. Foulkes, J. Lin, C. C. Hinkle, W. Yang, E. E. Morrisey, D. J. Rader, M. Li and M. P. Reilly (2017). "Deep RNA Sequencing Uncovers a Repertoire of Human Macrophage Long Intergenic Noncoding RNAs Modulated by Macrophage Activation and Associated With Cardiometabolic Diseases." J Am Heart Assoc 6(11).
-§ Zhang, H., C. C. Hinkle, S. M. O'Neill, J. Shi, J. Caughey, E. Lynch, G. Lynch, M. Gerelus, A. S. D. Tsai, R. Shah, J. F. Ferguson, R. S. Ahima and M. P. Reilly (2017). "Synergistic Modulation of Inflammatory but not Metabolic Effects of High-Fat Feeding by CCR2 and CX3CR1." Obesity (Silver Spring) 25(8): 1410-1420.
-§ Pashos, E. E., Y. Park, X. Wang, A. Raghavan, W. Yang, D. Abbey, D. T. Peters, J. Arbelaez, M. Hernandez, N. Kuperwasser, W. Li, Z. Lian, Y. Liu, W. Lv, S. L. Lytle-Gabbin, D. H. Marchadier, P. Rogov, J. Shi, K. J. Slovik, I. M. Stylianou, L. Wang, R. Yan, X. Zhang, S. Kathiresan, S. A. Duncan, T. S. Mikkelsen, E. E. Morrisey, D. J. Rader, C. D. Brown and K. Musunuru (2017). "Large, Diverse Population Cohorts of hiPSCs and Derived Hepatocyte-like Cells Reveal Functional Genetic Variation at Blood Lipid-Associated Loci." Cell Stem Cell 20(4): 558-570 e510.
-§ Liu, Y., D. M. Conlon, X. Bi, K. J. Slovik, J. Shi, H. I. Edelstein, J. S. Millar, A. Javaheri, M. Cuchel, E. E. Pashos, J. Iqbal, M. M. Hussain, R. A. Hegele, W. Yang, S. A. Duncan, D. J. Rader and E. E. Morrisey (2017). "Lack of MTTP Activity in Pluripotent Stem Cell-Derived Hepatocytes and Cardiomyocytes Abolishes apoB Secretion and Increases Cell Stress." Cell Rep 19(7): 1456-1466.
+**Mar. 2017 - Present** \
+Hanrui Zhang/Muredach Reilly Lab, Columbia University, New York, NY \
+Research Scientist
+
+**Nov. 2014 - Mar. 2017** \
+Induced Pluripotent Stem Cell (iPSC) Core, University of Pennsylvania, Philadelphia, PA \
+Research Specialist
+
+### Publication
+
+§ J. Shi, H. Pan, I. Tabas, H. Zhang (2020). “Genome-wide Crispr Screen in Primary Macrophages for Identification of a Regulatory Network for Macrophage Efferocytosis.” Manuscript in prepartion \
+§ Li, F., J. Shi, H. S. Lu and H. Zhang (2019). "Functional Genomics and CRISPR Applied to Cardiovascular Research and Medicine." Arterioscler Thromb Vasc Biol 39(9): e188-e194. \
+§ J. Shi, C. Xue, W. Liu and H. Zhang (2019). "Differentiation of Human-Induced Pluripotent Stem Cells to Macrophages for Disease Modeling and Functional Genomics." Curr Protoc Stem Cell Biol 48(1): e74. \
+§ Ferguson, J. F., C. Xue, Y. Gao, T. Tian, J. Shi, X. Zhang, Y. Wang, Y. D. Li, Z. Wei, M. Li, H. Zhang and M. P. Reilly (2018). "Tissue-Specific Differential Expression of Novel Genes and Long Intergenic Noncoding RNAs in Humans With Extreme Response to Evoked Endotoxemia." Circ Genom Precis Med 11(11): e001907. \
+§ Zhang, H., J. Shi, M. A. Hachet, C. Xue, R. C. Bauer, H. Jiang, W. Li, J. Tohyama, J. Millar, J. Billheimer, M. C. Phillips, B. Razani, D. J. Rader and M. P. Reilly (2017). "CRISPR/Cas9-Mediated Gene Editing in Human iPSC-Derived Macrophage Reveals Lysosomal Acid Lipase Function in Human Macrophages-Brief Report." Arterioscler Thromb Vasc Biol 37(11): 2156-2160. \
+§ Zhang, H., C. Xue, Y. Wang, J. Shi, X. Zhang, W. Li, S. Nunez, A. S. Foulkes, J. Lin, C. C. Hinkle, W. Yang, E. E. Morrisey, D. J. Rader, M. Li and M. P. Reilly (2017). "Deep RNA Sequencing Uncovers a Repertoire of Human Macrophage Long Intergenic Noncoding RNAs Modulated by Macrophage Activation and Associated With Cardiometabolic Diseases." J Am Heart Assoc 6(11). \
+§ Zhang, H., C. C. Hinkle, S. M. O'Neill, J. Shi, J. Caughey, E. Lynch, G. Lynch, M. Gerelus, A. S. D. Tsai, R. Shah, J. F. Ferguson, R. S. Ahima and M. P. Reilly (2017). "Synergistic Modulation of Inflammatory but not Metabolic Effects of High-Fat Feeding by CCR2 and CX3CR1." Obesity (Silver Spring) 25(8): 1410-1420. \
+§ Pashos, E. E., Y. Park, X. Wang, A. Raghavan, W. Yang, D. Abbey, D. T. Peters, J. Arbelaez, M. Hernandez, N. Kuperwasser, W. Li, Z. Lian, Y. Liu, W. Lv, S. L. Lytle-Gabbin, D. H. Marchadier, P. Rogov, J. Shi, K. J. Slovik, I. M. Stylianou, L. Wang, R. Yan, X. Zhang, S. Kathiresan, S. A. Duncan, T. S. Mikkelsen, E. E. Morrisey, D. J. Rader, C. D. Brown and K. Musunuru (2017). "Large, Diverse Population Cohorts of hiPSCs and Derived Hepatocyte-like Cells Reveal Functional Genetic Variation at Blood Lipid-Associated Loci." Cell Stem Cell 20(4): 558-570 e510.  \
+§ Liu, Y., D. M. Conlon, X. Bi, K. J. Slovik, J. Shi, H. I. Edelstein, J. S. Millar, A. Javaheri, M. Cuchel, E. E. Pashos, J. Iqbal, M. M. Hussain, R. A. Hegele, W. Yang, S. A. Duncan, D. J. Rader and E. E. Morrisey (2017). "Lack of MTTP Activity in Pluripotent Stem Cell-Derived Hepatocytes and Cardiomyocytes Abolishes apoB Secretion and Increases Cell Stress." Cell Rep 19(7): 1456-1466. \
 § Wu, S., M. Aksoy, J. Shi and H. B. Houbaviy (2014). "Evolution of the miR-290-295/miR-371-373 cluster family seed repertoire." PLoS One 9(9): e108519.

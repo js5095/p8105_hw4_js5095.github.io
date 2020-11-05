@@ -1,0 +1,67 @@
+---
+title: "Data_Dashboard"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+    source: embed
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+library(p8105.datasets)
+library(plotly)
+
+library(flexdashboard)
+```
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### Dot plot - What products have the largest volume of orders and what department are they from?
+
+```{r}
+data("instacart")
+
+product_max =
+  instacart %>% 
+  select(product_name, department) %>% 
+  group_by(product_name, department) %>% 
+  count(product_name) %>% 
+  arrange(desc(n)) %>%
+  filter(n > 2300) %>%
+  mutate(product_name = fct_reorder(product_name, n)) %>% 
+  ggplot(aes(x = product_name, y = n, color = department)) +
+  geom_point(alpha = .8) +
+  labs(
+    x = "product",
+    y = "total sales"
+  ) +
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust = 1))
+
+ggplotly(product_max)
+```
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+### Volume of order by time of the day
+
+```{r}
+  instacart %>% 
+  group_by(department, order_hour_of_day) %>% 
+  tally() %>% 
+  filter(n > 3000) %>% 
+  plot_ly(x = ~order_hour_of_day, y = ~n, color = ~department, type = "bar", colors = "viridis") 
+```
+
+### Shortest reorder time
+
+```{r}
+  instacart %>% 
+  filter(days_since_prior_order < 30,
+         department != "missing") %>%
+  group_by(department) %>%
+  plot_ly(x = ~department, y = ~days_since_prior_order, color = ~department, type = "box", colors = "viridis")
+```
+
